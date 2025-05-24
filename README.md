@@ -1,4 +1,4 @@
-[Explode War GIF by Butlerm](https://github.com/user-attachments/assets/751e8bcd-b5d9-4fd3-90b9-ce0e8dc8c860)
+[<img src="https://raw.githubusercontent.com/emilgeorgemathew/emilgeorgemathew/master/intro.gif" alt="👋 Hi there! I'm (Emil(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 
 <!--
