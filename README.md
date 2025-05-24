@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/emilgeorgemathew/emilgeorgemathew/master/intro.gif" alt="👋 Hi there! I'm (Emil)|https://google.com)" title="👋 Hi there! I'm (Emil(111|nd Li)|https://www.google.com)"/>](https://www.google.com/)
+[<img src="https://raw.githubusercontent.com/emilgeorgemathew/emilgeorgemathew/master/intro.gif" alt="👋 Hi there! I'm (Emil)|https://www.linkedin.com/in/emilgeorgemathew/)" title="👋 Hi there! I'm (Emil)|https://www.linkedin.com/in/emilgeorgemathew/)"/>]([https://www.google.com/](https://www.linkedin.com/in/emilgeorgemathew/))
 
 
 <!--
