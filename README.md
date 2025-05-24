@@ -1,4 +1,4 @@
-## Hi there 👋![Explode War GIF by Butlerm](https://github.com/user-attachments/assets/751e8bcd-b5d9-4fd3-90b9-ce0e8dc8c860)
+[Explode War GIF by Butlerm](https://github.com/user-attachments/assets/751e8bcd-b5d9-4fd3-90b9-ce0e8dc8c860)
 
 
 <!--
