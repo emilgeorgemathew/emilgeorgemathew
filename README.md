@@ -1,5 +1,4 @@
-[<img src="https://raw.githubusercontent.com/emilgeorgemathew/emilgeorgemathew/master/intro.gif" alt="👋 Hi there! I'm (Emil)|https://www.linkedin.com/in/emilgeorgemathew/)" title="👋 Hi there! I'm (Emil)|https://www.linkedin.com/in/emilgeorgemathew/)"/>]([https://www.google.com/](https://www.linkedin.com/in/emilgeorgemathew/))
-
+[<img src="https://raw.githubusercontent.com/emilgeorgemathew/emilgeorgemathew/master/intro.gif" alt="👋 Hi there! I'm (Emil)|https://www.linkedin.com/in/emilgeorgemathew/)" title="👋 Hi there! I'm (Emil)|https://www.linkedin.com/in/emilgeorgemathew/)"/>](https://www.linkedin.com/in/emilgeorgemathew/)\
 
 <!--
 **emilgeorgemathew/emilgeorgemathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
