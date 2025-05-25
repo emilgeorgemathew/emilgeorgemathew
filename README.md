@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Business Analyst with background in Campaign/Marketing Analytics.
-- 💼 Graduate Student, Master of Science in Business Analytics  [<img src="https://github.com/user-attachments/assets/049d4d36-44ca-4637-b186-9f5c9c8dc9b5?raw=true" height="30em" align="center" alt="UMD" title="UMD"/>](https://github.com/user-attachments/assets/049d4d36-44ca-4637-b186-9f5c9c8dc9b5) 𝚊𝚝 University of Maryland 
-//- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟺
+-  🎓Graduate Student, Master of Science in Business Analytics  [<img src="https://github.com/user-attachments/assets/049d4d36-44ca-4637-b186-9f5c9c8dc9b5?raw=true" height="30em" align="center" alt="UMD" title="UMD"/>](https://github.com/user-attachments/assets/049d4d36-44ca-4637-b186-9f5c9c8dc9b5) 𝚊𝚝 University of Maryland 
