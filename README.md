@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - 🏆 What I was upto: I won the first-ever university wide “AI and Food Insecurity” case competition at University of Maryland, Robert H. Smith School of Business in partnership with Capital Area Food Bank (CAFB). [LINK](https://www.linkedin.com/posts/emilgeorgemathew_umdaicase-aiforgood-socialimpact-activity-7323445261098258432-LgE6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADdz-wQB6aR6M6NAyn9zTLQDVWS9vo8l4n4)
  
 ## ⏰ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- Looking for part-time/internships in Summer / Fall 2025, full-time opportunities for Spring/Summer 2026.
+- Looking for part-time/full-time opportunities in early 2026.
 - Working on Tableau/PowerBI/ETL projects for my portfolio.
 - Taking courses on Data Lakes and Cloud Technologies, need to learn ETL pipelines more.
-- In the summer, I hope to learn how to play a Ukele and do data analytics projects.
+- In the winter, I hope to learn how to play a Ukele and do data analytics projects.
 
 ## 💬 Reach out to me
 Happy to see you message me!
